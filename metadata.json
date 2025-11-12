@@ -1,21 +1,15 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Creating Python Cells",
+    "slug": "atomic-learning-creating-python-cells",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning-tutorial"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
