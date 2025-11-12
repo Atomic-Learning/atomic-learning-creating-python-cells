@@ -9,7 +9,10 @@
     ],
     "duration": 1,
     "prerequisites": [
+        "html-tags",
+        "atomic-learning-python-cells"
     ],
     "related": [
+        "atomic-learning-python-cells-implementation"
     ]
 }
