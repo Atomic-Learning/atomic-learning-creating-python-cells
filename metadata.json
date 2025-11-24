@@ -5,14 +5,19 @@
         "chris-cooling"
     ],
     "tags": [
-        "atomic-learning"
+        "atomic-learning",
+        "python",
+        "html"
     ],
-    "duration": 1,
+    "duration": 2,
     "prerequisites": [
         "html-tags",
         "atomic-learning-python-cells-variable-persistence"
     ],
     "related": [
-        "atomic-learning-python-cells-implementation"
+        "atomic-learning-python-cells-implementation",
+        "atomic-learning-python-cells-importing-packages",
+        "atomic-learning-python-cells-variable-persistence"
+
     ]
 }
