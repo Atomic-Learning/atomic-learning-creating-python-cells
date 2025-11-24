@@ -17,7 +17,8 @@
     "related": [
         "atomic-learning-python-cells-implementation",
         "atomic-learning-python-cells-importing-packages",
-        "atomic-learning-python-cells-variable-persistence"
-
+        "atomic-learning-python-cells-variable-persistence",
+        "python-for-loops",
+        "python-functions"
     ]
 }
