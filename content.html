@@ -1,16 +1,14 @@
 <p>To insert a interactive Python cell in the <code>content.html</code> file of a page, you can use the following syntax:</p>
 
-<pre><code class="language-html">&lt;py-cell&gt;
-    # This is a Python cell
-    print("Hello, Atomic Learning!")
-&lt;/py-cell&gt;
+<pre><code class="language-html">&lt;py-cell&gt;# This is a Python cell
+print("Hello, Atomic Learning!")&lt;/py-cell&gt;
 </code></pre>
 
 This will render as the following interactive Python cell:
 
-<py-cell>
-    # This is a Python cell
-    print("Hello, Atomic Learning!")
-</py-cell>
+<py-cell># This is a Python cell
+print("Hello, Atomic Learning!")</py-cell>
+
+When defining a Python cell, it is advised to begin the Python code immediately after the opening <code>&lt;py-cell&gt;</code> tag without any leading whitespace or new lines. It is also advised not to indent code by any spaces or tabs, unless this is required for the syntax pf the Python code itself (e.g. within functions or loops). Finally, it is recommended to use the closing <code>&lt;/py-cell&gt;</code> tag immediately after the last line of Python code, again without any trailing whitespace or new lines. These practices help ensure that the Python code in the cell does not have any unnecessary leading or trailing blank lines or spaces.
 
 You can include as many Python cells as you like within the content of the page. Variables created in one cell will persist and be accessible in subsequent cells.
