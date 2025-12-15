@@ -1,6 +1,7 @@
 {
     "title": "Atomic Learning: Creating Python Cells",
     "slug": "atomic-learning-creating-python-cells",
+    "description": "A guide of how to add interactive Python cells to a content page in the Atomic Learning platform.",
     "authors": [
         "chris-cooling"
     ],
