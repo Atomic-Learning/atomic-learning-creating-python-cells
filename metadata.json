@@ -17,9 +17,8 @@
         "atomic-learning-content-file"
     ],
     "related": [
-        "atomic-learning-python-cells-implementation",
+        "atomic-learning-creating-r-cells",
         "atomic-learning-python-cells-importing-packages",
         "atomic-learning-python-cells-variable-persistence"
-
     ]
 }
