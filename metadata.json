@@ -13,7 +13,8 @@
     "duration": 2,
     "prerequisites": [
         "html-tags",
-        "atomic-learning-python-cells-variable-persistence"
+        "atomic-learning-python-cells-variable-persistence",
+        "atomic-learning-content-file"
     ],
     "related": [
         "atomic-learning-python-cells-implementation",
