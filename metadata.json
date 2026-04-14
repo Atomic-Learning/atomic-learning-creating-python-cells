@@ -13,12 +13,12 @@
     "duration": 2,
     "prerequisites": [
         "html-tags",
-        "atomic-learning-python-cells-variable-persistence",
+        "atomic-learning-python-cells",
         "atomic-learning-content-file"
     ],
     "related": [
-        "atomic-learning-creating-r-cells",
         "atomic-learning-python-cells-importing-packages",
-        "atomic-learning-python-cells-variable-persistence"
+        "atomic-learning-python-cells-variable-persistence",
+        "atomic-learning-creating-r-cells"
     ]
 }
