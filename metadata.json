@@ -12,7 +12,7 @@
     ],
     "duration": 2,
     "prerequisites": [
-        "html-tags",
+        "html-tags-elements",
         "atomic-learning-python-cells",
         "atomic-learning-content-file"
     ],
