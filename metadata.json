@@ -14,7 +14,8 @@
     "prerequisites": [
         "html-tags-elements",
         "atomic-learning-python-cells",
-        "atomic-learning-content-file"
+        "atomic-learning-content-file",
+        "atomic-learning-programming-software-versions"
     ],
     "related": [
         "atomic-learning-python-cells-importing-packages",
