@@ -1,8 +1,8 @@
 To insert a interactive Python cell in the <code>content.html</code> file of a page, you can use the following syntax:
 
 ```html
-&lt;py-cell&gt;# This is a Python cell
-print("Hello, Atomic Learning!")&lt;/py-cell&gt;
+<py-cell> This is a Python cell
+print("Hello, Atomic Learning!")</py-cell>
 ```
 
 This will render as the following interactive Python cell:
