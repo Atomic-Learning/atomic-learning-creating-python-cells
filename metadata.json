@@ -7,14 +7,14 @@
     ],
     "tags": [
         "atomic-learning",
-        "python",
-        "html"
+        "python"
     ],
     "duration": 2,
     "prerequisites": [
         "atomic-learning-python-cells",
         "atomic-learning-content-file",
-        "atomic-learning-programming-software-versions"
+        "atomic-learning-programming-software-versions",
+        "markdown-code-blocks"
     ],
     "related": [
         "atomic-learning-python-cells-importing-packages",
