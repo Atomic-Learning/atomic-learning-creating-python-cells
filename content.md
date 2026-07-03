@@ -1,4 +1,4 @@
-To insert a interactive Python cell in the <code>content.html</code> file of a page, you can use the following syntax:
+To insert a interactive Python cell in the `content.md` file of a page, you can use the following syntax:
 
 ```html
  ```py-cell
