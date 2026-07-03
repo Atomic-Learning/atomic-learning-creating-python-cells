@@ -18,6 +18,7 @@
     ],
     "related": [
         "atomic-learning-python-cells-importing-packages",
-        "atomic-learning-python-cells-variable-persistence"
+        "atomic-learning-python-cells-variable-persistence",
+        "atomic-learning-including-code"
     ]
 }
